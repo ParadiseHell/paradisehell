@@ -1,9 +1,8 @@
-# Hi, I'm ChengTao
-I'm an Android Developer working in [Kwai](https://www.kuaishou.com/), and I'm working towards to be a full-stack developer.
+## Hi 👋, I'm ChengTao
 
-## Stats
-![ParadiseHell's github stats](https://github-readme-stats.vercel.app/api?username=paradisehell&show_icons=true&theme=dracula)
+I'm an Android engineer.
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.wasabeef.vercel.app/api/top-langs/?username=paradisehell&show_icons=true&layout=compact&theme=radical)
+Now I'm trying hard to read more open-source projects' source code, learn the
+essence and write more scalable projects.
 
+![ChengTao's Github stats](https://github-readme-stats.vercel.app/api?username=paradisehell&show_icons=ture)
